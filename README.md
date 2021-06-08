@@ -9,3 +9,8 @@ When created pymol_transition.py is loaded on pymol, the created models are load
 [Usage]
 
 python3 transition.py pdb_1 pdb_2
+
+
+[Note]
+
+Ver0.0 calculates intermediate-models of only chain A.
